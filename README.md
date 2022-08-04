@@ -28,6 +28,7 @@ Watch In Youtube: https://www.youtube.com/watch?v=1L8NjZyS9o0&t=67s
 
 
 *** Modpack Low For Low End PC V2 [Up 18-07-2022]
+- Watch In Youtube: https://www.youtube.com/watch?v=AP_wHoxTRb8&t=22s
 Đây là bản modpack v2 của mình, trước đó mình đã làm bản v1 nhưng bản đó chỉ là bản được chỉnh lại texture... chứ chưa thực sự tăng nhiều fps, nên nay mình làm ra bản v2 này chắc chắn các bạn xài fps sẽ tăng rõ rệt vì trong bản game này mình có cài rất nhiều những cleo, file có đuôi .asi giúp tăng fps và fix bug game ..v.v, giúp game hoạt động mượt mà
 - Nguồn file game GTA trong video: N2T GTA 190 MB
 - Download: https://drive.google.com/file/d/1IZJELrdq6jBRIJrA7jLeCbO5f3DcCh3B/view?usp=sharing
